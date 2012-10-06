@@ -1,0 +1,1 @@
+response.Write nowupload.form("id")
