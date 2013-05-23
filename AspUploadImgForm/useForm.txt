@@ -1,0 +1,2 @@
+<input name="arcpic" id="pic" type="text"  value="" style="width:388px">
+<input type="button" onclick="window.open('uploadimg/index.asp','newwindow','width=500,height=80')" value="本地上传" style="width:70px;cursor:pointer;">
